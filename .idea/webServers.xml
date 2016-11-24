@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ff8a38f5-9271-4c78-a25c-f3c46173af80" name="portfolio_marine" url="http://ftp.cluster017.hosting.ovh.net/">
+        <fileTransfer host="ftp.cluster017.hosting.ovh.net" port="21" rootFolder="/portfolio_marine" username="clementluu">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
